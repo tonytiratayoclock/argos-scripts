@@ -3,7 +3,7 @@
 const { display, base64_encode } = require('./utils');
 // CONSTANTS and IMAGES
 
-const project = '/home/tony/ocore';
+const project = '/home/tony/Ocore';
 const logoPath = project + '/assets/oclock.png';
 const base64logo = base64_encode(logoPath);
 
